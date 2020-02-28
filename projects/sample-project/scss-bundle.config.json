@@ -1,0 +1,9 @@
+{
+    "bundlerOptions": {
+        "entryFile": "projects/sample-project/src/style.scss",
+        "rootDir": ".",
+        "outFile": "./dist/sample-project/objy-monitor.scss",
+        "ignoredImports": ["~@angular/.*"],
+        "logLevel": "info"
+    }
+}

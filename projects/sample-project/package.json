@@ -1,0 +1,13 @@
+{
+  "name": "sample-project",
+  "version": "0.0.1",
+  "dependencies": {
+    "@angular/cdk": "^9.1.0",
+    "@angular/material": "^9.1.0"
+  },
+  "peerDependencies": {
+    "@angular/common": "^9.0.2",
+    "@angular/core": "^9.0.2"
+   
+  }
+}
